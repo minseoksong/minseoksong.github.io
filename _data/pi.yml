@@ -1,0 +1,21 @@
+- name: Minseok Song, Ph.D.
+  photo: msong_bio.jpeg
+  info: Professor, POSTECH 
+  email: mssong@postech.ac.kr
+  scholar: https://scholar.google.com/citations?user=8ACzAlkAAAAJ&hl=en
+  researchgate: https://www.researchgate.net/profile/Minseok-Song
+#  github: https://github.com/minseoksong
+  cv: cv/cv.pdf
+  number_educ: 5
+  education1: (2022 - ) Full Professor, <a href="https://ime.postech.ac.kr" target="_blank">Dept. of Industrial & Management Engineering</a>, <a href="https://www.postech.ac.kr" target="_blank">POSTECH</a>
+  education2: (2016 - 2021) Associate Professor, <a href="https://ime.postech.ac.kr" target="_blank">Dept. of Industrial & Management Engineering</a>, <a href="https://www.postech.ac.kr" target="_blank">POSTECH</a>
+  education3: (2010 - 2015) Assistant/Associate Professor, <a href="https://business.unist.ac.kr/" target="_blank">School of Business Administration</a>, <a href="https://www.unist.ac.kr" target="_blank">UNIST</a>
+  education4: (2006 - 2009) Postdoctor Researcher <a href="https://www.tue.nl" target="_blank">TU Eindhoven</a> (with <a href="http://www.padsweb.rwth-aachen.de/wvdaalst/" target="_blank">Prof. Wil van der Aalst</a>)
+  education5: (2006.2) Ph.D. <a href="https://ime.postech.ac.kr" target="_blank">Dept. of Industrial & Management Engineering</a>, <a href="https://www.postech.ac.kr" target="_blank">POSTECH</a> (with <a href="https://pkm.postech.ac.kr" target="_blank">Prof. Injun Choi</a>)
+  education6: (1999.2, 2001.2) B.S/M.S. <a href="https://ime.postech.ac.kr" target="_blank">Dept. of Industrial & Management Engineering</a>, <a href="https://www.postech.ac.kr" target="_blank">POSTECH</a>
+  education1short: (22- ) Full Prof., POSTECH
+  education2short: (16-21) Assoc Prof., POSTECH
+  education3short: (10-15) Asst/Assoc Prof., UNIST 
+  education4short: (06-09) Postdoc, TU/e
+  education5short: (06) Ph.D., POSTECH 
+#  education6short: (1999.2,2001.2) B.S./M.S., POSTECH 
