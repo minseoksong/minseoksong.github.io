@@ -2,7 +2,7 @@
 title: Dr. Minseok Song
 email: mssong@postech.ac.kr
 description: Academic webpage of Dr. Minseok Song
-repository: minseoksong/minseoksong.github.io
+repository: "minseoksong.github.io"
 baseurl: ""
 url: https://minseoksong.github.io
 
