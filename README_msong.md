@@ -9,6 +9,9 @@ Ref
 ~ $ jekyll new my-awesome-site # 확인 필요?
 ~ $ cd my-awesome-site
 ~/my-awesome-site $ sudo bundle exec jekyll serve # 필요!!
+~/my-awesome-site $ sudo bundle exec jekyll build # 필요!! ==> server
+
+
 --
 
 
