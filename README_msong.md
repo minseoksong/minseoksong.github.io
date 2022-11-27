@@ -13,6 +13,30 @@ Ref
 
 
 --
+색상 변경
+
+https://visme.co/blog/website-color-schemes/
+46. Corporate and Serious
+
+
+bootstrap.scss 변경
+
+backgroud
+#222 ==> #265077
+
+Table
+#303030 ==> #022140
+
+A (link)
+#00bc8c ==> #D1D7EO
+
+Hover
+#007053 ==> #77A6F7
+
+
+
+#888 ==> #494B68
+--
 
 
 Make pages
